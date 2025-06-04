@@ -1,3 +1,3 @@
-# Lama Dev Animated 3D Portfolio Website Project
+# Joeoverflowcode 3d Animated Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I'll be filling out this Readme in the days to come. Shout out to LLama Dev's excellent tutorial for showing me the way.
